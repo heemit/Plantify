@@ -1,0 +1,56 @@
+/* Scoped Orders page styles */
+.orders-page {
+    padding: 20px;
+  }
+  
+  .order-item {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  h3 {
+    margin: 0;
+    padding-bottom: 5px;
+  }
+  
+  .order-products-list {
+    margin-top: 15px;
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .order-product-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+  }
+  
+  .order-product-image {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-right: 15px;
+  }
+  
+  .order-product-details {
+    flex: 1;
+  }
+  
+  .order-product-details p {
+    margin: 5px 0;
+  }
+  
+  h2 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  p {
+    font-size: 16px;
+    margin: 5px 0;
+  }
+  
