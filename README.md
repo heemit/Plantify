@@ -110,12 +110,6 @@ Plantify/
 
 ---
 
-## 🌐 Live Demo
-
-**[Plantify Live Demo 🚀](https://e-plant-shopping-beta.vercel.app/)**
-
----
-
 ## 📜 Important Functionalities
 
 - **State-based Crop Recommendation:**  
@@ -150,28 +144,14 @@ Plantify/
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature/YourFeature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/YourFeature`
-5. Open a pull request
-
----
-
-## 📄 License
-
-This project is licensed under the [Apache License 2.0](LICENSE).
-
----
-
 ## 👨‍💻 Author
+This project was developed by:
 
-- **Heemit**  
-  [GitHub Profile](https://github.com/heemit)
+**Heemit Shah**
+
+Role: Full Stack Developer
+
+Responsibilities: Designed and implemented the entire project, including frontend development, backend logic, database management, and AR integration.
 
 ---
 
