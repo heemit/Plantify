@@ -73,7 +73,7 @@ Plantify/
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/d5f3ee2b-290f-4291-9675-51b7a8a4f16a)
+![image](https://github.com/user-attachments/assets/995f47fc-7c4c-45ea-9e8e-c1d005a68e49)
 
 ![image](https://github.com/user-attachments/assets/3e9c36a1-1c9e-4e02-bab8-aeee825862c5)
 
